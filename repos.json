@@ -2,11 +2,11 @@
   {
     "kernelSource": {
       "name": "DogDay-Normal",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme"
+      "repo": "https://github.com/stormbreaker-project/kernel_xiaomi_lavender",
+      "branch": "oldcam-hmp",
+      "device": "lavender"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
